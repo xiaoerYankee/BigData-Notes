@@ -2,9 +2,9 @@
 
 从零开始记录自己学习大数据的过程以及自己遇见的一些错误的解决办法。
 
-## CentOS7模块
+## CentOS7
 
-## Hadoop模块
+## Hadoop
 
 ### Hadoop集群搭建
 
@@ -22,7 +22,7 @@
 
 [6.Hadoop-HA集群启动脚本](Hadoop/6.Hadoop-HA集群启动脚本.md)
 
-## Hive模块
+## Hive
 
 ### Hive进阶
 
