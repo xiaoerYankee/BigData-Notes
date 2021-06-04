@@ -1,15 +1,20 @@
 <table>
     <tr>
+      <th><img width="50px" src="http://typora-image.test.upcdn.net/images/%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA.png"></th>
+      <th><img width="50px" src="http://typora-image.test.upcdn.net/images/hadoop.jpg"></th>
       <th><img width="50px" src="http://typora-image.test.upcdn.net/images/hive.jpg"></th>
       <th><img width="50px" src="http://typora-image.test.upcdn.net/images/spark.jpg"></th>
       <th><img width="50px" src="http://typora-image.test.upcdn.net/images/flink.png"></th>
     </tr>
     <tr>
-      <td align="center"><a href="#二Hive">Hive</a></td>
-      <td align="center"><a href="#三Spark">Spark</a></td>
-      <td align="center"><a href="#四Flink">Flink</a></td>
+      <td align="center"><a href="#一集群搭建">集群搭建</a></td>
+      <td align="center"><a href="#二Hadoop">Hadoop</a></td>
+      <td align="center"><a href="#三Hive">Hive</a></td>
+      <td align="center"><a href="#四Spark">Spark</a></td>
+      <td align="center"><a href="#五Flink">Flink</a></td>
     </tr>
   </table>
+
 
 
 
@@ -19,27 +24,31 @@
 
 从零开始记录自己学习大数据的过程以及自己遇见的一些错误的解决办法。
 
-## CentOS7
+
+
+## 一、集群搭建
+
+1.[Hadoop集群搭建之CentOS7系统配置](集群搭建/Hadoop集群搭建之CentOS7系统配置.md)
+
+2.[Hadoop集群搭建之全分布式集群搭建](集群搭建/Hadoop集群搭建之全分布式集群搭建.md)
+
+3.[Hadoop集群搭建之Hive安装](集群搭建/Hadoop集群搭建之Hive安装.md)
+
+4.[Hadoop集群搭建之HBase安装](集群搭建/Hadoop集群搭建之HBase安装.md)
+
+5.[Hadoop集群搭建之Zeepline安装](集群搭建/Hadoop集群搭建之Zeepline安装.md)
+
+6.[Hadoop-HA集群启动脚本](集群搭建/Hadoop-HA集群启动脚本.md)
 
 
 
-## Hadoop
-
-1.[Hadoop集群搭建之CentOS7系统配置](Hadoop/Hadoop集群搭建之CentOS7系统配置.md)
-
-2.[Hadoop集群搭建之全分布式集群搭建](Hadoop/Hadoop集群搭建之全分布式集群搭建.md)
-
-3.[Hadoop集群搭建之Hive安装](Hadoop/Hadoop集群搭建之Hive安装.md)
-
-4.[Hadoop集群搭建之HBase安装](Hadoop/4.Hadoop集群搭建之HBase安装.md)
-
-5.[Hadoop集群搭建之Zeepline安装](Hadoop/Hadoop集群搭建之Zeepline安装.md)
-
-6.[Hadoop-HA集群启动脚本](Hadoop/Hadoop-HA集群启动脚本.md)
+## 二、Hadoop
 
 
 
-## 二、Hive
+
+
+## 三、Hive
 
 1.[Hive元数据库模型图](http://typora-image.test.upcdn.net/images/20200904223941.png)
 
@@ -55,7 +64,7 @@
 
 
 
-## 三、Spark
+## 四、Spark
 
 1.[Spark简介](Spark/Spark简介.md)
 
@@ -83,7 +92,7 @@
 
 
 
-## 四、Flink
+## 五、Flink
 
 1.[Flink简介](Flink/Flink简介.md)
 
