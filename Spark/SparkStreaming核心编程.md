@@ -1,4 +1,4 @@
-#### Spark Streaming核心编程
+#### SparkStreaming核心编程
 
 ##### 1. DStream入门
 
