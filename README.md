@@ -77,7 +77,7 @@
 
 10.[SparkSQL核心编程](Spark/SparkSQL核心编程.md)
 
-11.[SparkStreaming概述](Spark/SparkStreaming概述.md)](Spark/SparkSQL核心编程.md)
+11.[SparkStreaming概述](Spark/SparkStreaming概述.md)
 
 12.[SparkStreaming核心编程](Spark/SparkStreaming核心编程.md)
 
