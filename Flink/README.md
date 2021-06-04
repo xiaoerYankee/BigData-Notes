@@ -4,6 +4,8 @@
 
 2.[Flink快速上手](Flink快速上手.md)
 
-3.[Flink中如何判断需要几个slot以及任务链的划分](Flink中如何判断需要几个slot以及任务链的划分.md)
+3.[Flink运行环境_Local](Flink运行环境_Local.md)
 
-4.[Flink常见的面试题](Flink常见的面试题.md)
+4.[Flink中如何判断需要几个slot以及任务链的划分](Flink中如何判断需要几个slot以及任务链的划分.md)
+
+5.[Flink常见的面试题](Flink常见的面试题.md)

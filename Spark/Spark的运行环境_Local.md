@@ -4,11 +4,9 @@ Spark作为一个数据处理框架和计算引擎，被设计在所有常见的
 
 ![](http://typora-image.test.upcdn.net/images/Spark运行环境.jpg)
 
-##### 1. Local模式
-
 所谓的Local模式，就是不需要其他任何节点资源就可以在本地执行Spark代码的环境，一般用于教学、调试、演示等。
 
-###### 1. 启动Local环境
+##### 1. 启动Local环境
 
 - 进入解压缩后的路径，执行如下命令
 
@@ -26,7 +24,7 @@ Spark作为一个数据处理框架和计算引擎，被设计在所有常见的
 
   ![](http://typora-image.test.upcdn.net/images/Spark-Web-UI.jpg)
 
-###### 2. 命令行工具
+##### 2. 命令行工具
 
 - 在解压缩的目录下的data目录下，添加words.txt文件。在命令行工具中执行如下代码
 
@@ -36,13 +34,13 @@ Spark作为一个数据处理框架和计算引擎，被设计在所有常见的
 
   ![](http://typora-image.test.upcdn.net/images/wordcount.jpg)
 
-###### 3. 退出本地模式
+##### 3. 退出本地模式
 
 ```
 :quit
 ```
 
-###### 4. 提交应用
+##### 4. 提交应用
 
 ```
 bin/spark-submit \
