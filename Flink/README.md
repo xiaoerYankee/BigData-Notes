@@ -1,16 +1,5 @@
 # Flink
 
-从零开始记录自己学习Flink的过程以及自己遇见的一些错误的解决办法。
+1.[Flink常见的面试题](Flink/Flink常见的面试题.md)
 
-### Flink面试题
-
----
-
-[Flink常见的面试题](Flink常见的面试题.md)
-
-
-
-### Flink常见错误
-
----
-
+2.[Flink中如何判断需要几个slot以及任务链的划分](Flink/Flink中如何判断需要几个slot以及任务链的划分.md)
