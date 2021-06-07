@@ -52,7 +52,7 @@ bin/flink run \
 
 ##### 7. Flink on Yarn的三种部署模式
 
-Flink提供了yarn上运行的三种模式，分别为Session-Cluster，Application Mode和Per-Job-Cluster模式。
+Flink提供了yarn上运行的三种模式，分别为Session-Cluster，Application Mode和Per-Job-Cluster模式。更多详细的配置可以参考[配置文档](https://ci.apache.org/projects/flink/flink-docs-release-1.13/docs/deployment/config/)
 
 ###### 1. Session-Cluster
 
